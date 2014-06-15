@@ -1,0 +1,5 @@
+# Test file
+# This is a comment - it will be ignored.
+
+# The above line will also be ignored.
+# All marking criteria should be set out as a comma separated line representing: Category,Description,Maximum Grade
